@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "bahadur21656",
+  "repo": "container-xime0sq",
+  "name": "bahadur21656",
+}
